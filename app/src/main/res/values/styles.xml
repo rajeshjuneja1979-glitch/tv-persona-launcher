@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="night">#040A1D</color>
+
+    <style name="NocturneTheme" parent="@android:style/Theme.DeviceDefault.NoActionBar">
+        <item name="android:windowBackground">@color/night</item>
+        <item name="android:windowNoTitle">true</item>
+    </style>
+</resources>
